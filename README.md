@@ -1,4 +1,4 @@
-# lanwflowARODeploy
+# langflow ARO Deploy STEPS
 # Langflow OpenShift Deployment
 
 Este repositorio contiene los archivos necesarios para desplegar Langflow en OpenShift, utilizando una base de datos PostgreSQL en Azure.
